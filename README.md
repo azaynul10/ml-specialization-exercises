@@ -19,8 +19,9 @@ Throughout this hands-on specialization, I dive into the exciting world of machi
 
 3. **Unsupervised Learning, Recommenders, Reinforcement Learning**
    - Explore clustering, dimensionality reduction, recommender systems, and reinforcement learning.
-   
+
    Reinforcement Learning
+![giphy-ezgif com-optimize](https://github.com/azaynul10/ml-specialization-exercises/assets/111334392/d216f75a-9d6f-41e8-9c34-def9432602fe)
 
 ## 🚀 Getting Started
 
