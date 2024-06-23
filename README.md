@@ -1,4 +1,4 @@
-[# 🤖 Machine Learning Specialization Exercises 🧠](https://giphy.com/clips/future-midjourney-chat-gpt-5CtAj3v1G9jLKwxM5E)
+# 🤖 Machine Learning Specialization Exercises 🧠 [https://giphy.com/clips/future-midjourney-chat-gpt-5CtAj3v1G9jLKwxM5E]
 
 Welcome to my repository of exercises from the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) on Coursera! This specialization, created by DeepLearning.AI and Stanford University, is taught by the legendary Andrew Ng. 
 
