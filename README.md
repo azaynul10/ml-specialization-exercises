@@ -1,4 +1,5 @@
-# 🤖 Machine Learning Specialization Exercises 🧠 <div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/M16EnP70Vd6abjtsJT/video" width="480"></iframe></div>
+# 🤖 Machine Learning Specialization Exercises 🧠 
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/M16EnP70Vd6abjtsJT/video" width="480"></iframe></div>
 
 Welcome to my repository of exercises from the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) on Coursera! This specialization, created by DeepLearning.AI and Stanford University, is taught by the legendary Andrew Ng. 
 
