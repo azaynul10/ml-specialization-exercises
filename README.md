@@ -10,17 +10,14 @@ Throughout this hands-on specialization, I dive into the exciting world of machi
 1. **Supervised Machine Learning: Regression and Classification**
    - Linear regression, logistic regression, neural networks, and more!
    
-   Linear Regression
 
 2. **Advanced Learning Algorithms** 
    - Optimize your models with hyperparameter tuning, regularization, and more advanced techniques.
-   
-   Optimization
+
 
 3. **Unsupervised Learning, Recommenders, Reinforcement Learning**
    - Explore clustering, dimensionality reduction, recommender systems, and reinforcement learning.
 
-   Reinforcement Learning
 ![giphy-ezgif com-optimize](https://github.com/azaynul10/ml-specialization-exercises/assets/111334392/d216f75a-9d6f-41e8-9c34-def9432602fe)
 
 ## 🚀 Getting Started
@@ -32,13 +29,12 @@ To run these notebooks on your own machine:
 3. Open the notebooks in Jupyter
 4. Start learning and coding!
 
-Coding
 
 ## 🤝 Contributing
 
 If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request. Let's learn and grow together!
 
-Teamwork
+
 
 ## 🌟 Acknowledgments
 
